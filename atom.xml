@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://alfadb.github.io/atom.xml" rel="self"/>
-  <link href="http://alfadb.github.io/"/>
-  <updated>2014-03-10T21:48:34+08:00</updated>
-  <id>http://alfadb.github.io/</id>
+  <link href="http://www.alfadb.cn/atom.xml" rel="self"/>
+  <link href="http://www.alfadb.cn/"/>
+  <updated>2014-03-10T21:59:22+08:00</updated>
+  <id>http://www.alfadb.cn/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[中文测试]]></title>
-    <link href="http://alfadb.github.io/blog/2014/03/10/test/"/>
+    <link href="http://www.alfadb.cn/blog/2014/03/10/test/"/>
     <updated>2014-03-10T13:46:23+08:00</updated>
-    <id>http://alfadb.github.io/blog/2014/03/10/test</id>
+    <id>http://www.alfadb.cn/blog/2014/03/10/test</id>
     <content type="html"><![CDATA[<p>中文测试</p>
 ]]></content>
   </entry>

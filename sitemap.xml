@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://alfadb.github.io/blog/2014/03/10/test/</loc>
+        <loc>http://www.alfadb.cn/blog/2014/03/10/test/</loc>
         <lastmod>2014-03-10T13:47:13+08:00</lastmod>
     </url>
     <url>
-        <loc>http://alfadb.github.io/blog/archives/</loc>
+        <loc>http://www.alfadb.cn/blog/archives/</loc>
         <lastmod>2014-03-10T13:47:13+08:00</lastmod>
     </url>
     <url>
-        <loc>http://alfadb.github.io/</loc>
+        <loc>http://www.alfadb.cn/</loc>
         <lastmod>2014-03-10T13:47:13+08:00</lastmod>
     </url>
     <url>
-        <loc>http://alfadb.github.io/robots.txt</loc>
+        <loc>http://www.alfadb.cn/robots.txt</loc>
         <lastmod>2014-03-10T13:40:50+08:00</lastmod>
     </url>
 </urlset>
